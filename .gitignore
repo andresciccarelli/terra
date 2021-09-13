@@ -1,6 +1,7 @@
 #terraform local dir
 .terraform/*
 
+
 #tf terraform states
 *.tfstate
 *.tfstate.*
@@ -10,3 +11,6 @@
 
 #all files .csv
 *.csv
+
+#terraform.exe
+terraform.exe
